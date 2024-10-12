@@ -1,6 +1,0 @@
-aiohttp>=3
-telethon>=1.10
-yarl>=1
-
-[fast]
-cryptg>=0.2

@@ -1,2 +1,0 @@
-[console_scripts]
-tgbotfilestream = tgbotfilestream.__main__:main
