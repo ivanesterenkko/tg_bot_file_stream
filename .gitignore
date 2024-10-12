@@ -13,3 +13,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+build/lib/tgbotilestream
+tgbotfilestream.egg-info
